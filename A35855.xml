@@ -1,0 +1,448 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue about the French government wars, cruelties, armies, fleet, &amp;c. between Tom and Dick, two seamen.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35855</idno>
+            <idno type="STC">Wing D1289</idno>
+            <idno type="STC">ESTC R23857</idno>
+            <idno type="EEBO-CITATION">07916128</idno>
+            <idno type="OCLC">ocm 07916128</idno>
+            <idno type="VID">40411</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35855)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40411)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1205:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue about the French government wars, cruelties, armies, fleet, &amp;c. between Tom and Dick, two seamen.</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  History --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:40411:1"/>
+            <head>A DIALOGUE About the <hi>French Government,</hi> WARS, CRUELTIES, ARMIES, FLEET, <hi>&amp;c.</hi> Between <hi>TOM</hi> and <hi>DICK,</hi> two Seamen.</head>
+            <sp>
+               <p>HONEST <hi>Tom,</hi> what, ſuch a Man alive! I ne'er thought to ſee thee, after ſo long an Embargo.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>My dear <hi>Dick!</hi> what cheer? well met in old <hi>England</hi> once again.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Prithee where haſt been adrift, e'er ſince we loſt ſight of each other, that plaguy ſhower of Fire, Hail, and Smoake, againſt the <hi>
+                     <gap reason="illegible" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>yman</hi> at <hi>Cape Spartel?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>That ſame Pickaroon has kept me under Hatches at <hi>Sally</hi> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er ſince, at the old <hi>Egyptian</hi> ſport of Brick and Mortar; <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d had it not been for our gracious King and Queen I might <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve lain Wind-bound in that Gulf for ever.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>
+                  <hi>Sally,</hi> quoth'a! I wiſh we had that day ſunk with the reſt <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> our Fellows, rather than liv'd thus long to ſee a worſe <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t of Pickaroons ſwagger thus at our own doors;—but <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ce 'tis come to that, we'll e'en venture one bruſh together <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gain, and make the <hi>Monſieurs</hi> know the difference between <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ar Oak and their Firr, 'tween <hi>Engliſh</hi> Men and <hi>French</hi> Toad<g ref="char:EOLhyphen"/>ſtools.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Dear <hi>Dick,</hi> we'll fight, and live or dye together: But <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rithee what became of thee after that unlucky Rencounter? <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſt thee ſtruggled with Wind and Water, and liv'd by the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ope ever ſince?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>I wiſh I had dy'd by the Rope rather than live (as <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> did) by the Oar; for the <hi>Sallyman</hi> with the Weather<g ref="char:EOLhyphen"/>gage having ſoon maſter'd us, the <hi>Frenchman</hi> that lay there aloof barter'd with him for what was left on board; and I among others have ever ſince tugg'd 'tween Heaven and Hell, 'tween Wind and Water above ground, but under the Hatches of a <hi>French</hi> Galley, the Maſterpiece of all Slavery (this ſide old <hi>Charon</hi>'s Ferry-boat,) where one meets in a narrow bottom, with all the tickling torments of whole <hi>Barbary.</hi> But the Galleys lately putting in to <hi>Torbay,</hi> I ſlipt my Chain, and <hi>Tingmouth</hi> being on fire, I fairly ran away by the light on't.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>'Tis a bad Fire as well as Wind brings no Man good: By my troth well exchang'd! a <hi>French</hi> Galley for <hi>Engliſh</hi> Liberty, and Bread and Water for roſt Beef! but prithee what Company had'ſt there?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Why, of all ſorts; for the Gallies, like Hell and the Grave, refuſe none: there are all Nations as well as <hi>French,</hi> and all kind of Criminals, eſpecially <hi>Hugonots</hi> (which is a Crime of the firſt rate in <hi>France</hi>) and among thoſe <hi>French Proteſtants</hi> there are many, that like our Sea-Chaplains, can Preach and Pray as oft as the gingling of the Chain and the abſence of the Commander would permit.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Truly, <hi>Dick,</hi> tho' my Cabin was the bottom of a muſty Cellar, yet I kept a Diary of Wind and Tide; that is, of the frowns and favours of my grim Patroon, which with a <hi>Mooriſh</hi> Tune or two I have learnt, will be ſome divertiſement to us aboard. But firſt give me thy opinion of theſe <hi>Monſieurs;</hi> what a plague brought their <hi>French</hi> impudence to our Channel?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>I'le be free with thee, <hi>Tom,</hi> and give thee ſuch an ac<g ref="char:EOLhyphen"/>count as my own dear bought experience, or that of others <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay have furniſh'd me—A <hi>French</hi> Papiſt then is a vain f<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e, fickle Creature, a Bubble blown by a Prieſt, and toſs'd abo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by the breath of his mouth, a bad Neighbour, a worſe Friend true to nothing but a Whore, and to no Intereſt but tha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of his Maſter's Ambition; a meer Butterfly, that flutters a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d whifles about for a while, and then falls and dies in the dirt, 'tis a Spaniel that fetches and carries, but not for himſelf; he <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e is wrapt warm like a Silk-worm, and fares well to day, but to morrow is reduc'd to his Linnen-brogues, and wooden Shooes, and is glad to find Bread and Onion, and to yield up the fat of his Land to the Prieſts, and their fellow-Caterpillars.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>At this rate all <hi>France</hi> is but one Galley, and <hi>French</hi> Sub<g ref="char:EOLhyphen"/>jects are more at the Oar than thoſe in <hi>Barbary,</hi> if, like Worms, every cloven foot may cruſh them: Have they any <hi>Nobility</hi> and <hi>Gentry</hi> that dare ſtand up for Liberty, and Property, and the Laws, and oppoſe ſuch proceedings?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Yes, yes; as much as a Ery of Eiſh dare oppoſe a Levia<g ref="char:EOLhyphen"/>than; their King's pleaſure is their Law; Statutes and <hi>Magna Charta's</hi> are but ſo many Cobwebs; their Nobility and Gentry are forced to give up their Eſtates, and to live upon Court Pen<g ref="char:EOLhyphen"/>ſions, to turn Flag-men and Scarf-men, and ne'er be heard of but in the Camp and Gazers; all Men of Eſtates are become Men of War; and thoſe that follow'd the Plough are now Pio<g ref="char:EOLhyphen"/>neers, and follow the Leaguer; the Merchant has no Trade, and is turn'd Farmer; Vintuers and Coopers are made Sea-men; and Wines and Brandy die where they grew, for want of vent.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>So that their Seamen drink well, if they do but eat and work accordingly.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Their Seamen, I tell thee, are a ſort of Water-Rats, that have been more uſed to Land, and to creep in Vineyards, than to climb up a main Maſtyard; they're choice Seamen went off with the flood of Proteſtants that left that Kingdom; and tho' the great <hi>Turk</hi> be a Friend of <hi>France,</hi> yet there are 1200 of their beſt midſhip-men padlock'd up at <hi>Algiers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Perhaps 'tis more tolerable being there than at home: But after all, what would they be at?</p>
+            </sp>
+            <sp>
+               <speaker>D</speaker>
+               <p>Why, at any thing that's not their own, rather than be quiet: The <hi>French</hi> value themſelves upon their addreſs in <hi>treſpaſ<g ref="char:EOLhyphen"/>ſing</hi> upon their Neighbours, in <hi>ſeiſing</hi> their Poſſeſſions, in keep<g ref="char:EOLhyphen"/>ing their <hi>Freeholds</hi> from them, and ſeek no other Title than that of <hi>Conveniencie;</hi> that is, when <hi>Monſieur</hi> caſts a longing eye to any Place or Country (as <hi>Lorain, Alſatia, Hudſons-bay,</hi> or the like) that he thinks <hi>convenient</hi> for him, he ſends before him ſome <hi>Title-forging</hi> Attorney, that ſoon finds out Hamperfuls of old, muſty Pretenſions, that ſhall reach any corner of the New or Old World that his Maſter likes beſt; and then follows <hi>Belzebub</hi> with his Legions, who puts himſelf in poſſeſſion; and in all theſe Caſes of <hi>Conveniency,</hi> he is both Witneſs, Judge, and Party.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>That's <hi>French</hi> Law, I believe, and will ſcarce hold water any where elſe; but this <hi>Monſieur</hi> had need of <hi>Guinea</hi> and <hi>Peru:</hi> Whence, I prithee, has he to pay theſe Fleets and Legions that turn the World thus upſide down?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>His <hi>Prieſts</hi> and <hi>Dragoons</hi> prog for him, as thou knoweſt at <hi>Sally,</hi> the Jack-calls do for the Lion; he takes from <hi>Peter</hi> to pay <hi>Paul;</hi> he robs one Friend to pay another, and ſqueezes out of one Countrey all its greaſe, to liquor his Boots for the next; he hath borrow'd the Church-Plate for his Mint, and their Bells for his Artillery.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Prithee what are thoſe <hi>French</hi> Engineers call'd <hi>Dragoons,</hi> which our Goodwifes and Children are ſo much afraid of?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Oh! thoſe are a kind of Fiſhermen that catch Hugonots; a ſort of booted Apoſtles that are ſent up and down to root out and deſtroy a certain Weed, call'd Proteſtants; the <hi>Men</hi> they ſend to the Gallies, the <hi>Children</hi> they hang about the Hedges, and make a preſent of to the Birds, Cats, and Dogs; but the <hi>Women,</hi> they firſt diſcharge their Love at 'em, and then their Blunder<g ref="char:EOLhyphen"/>buſſes; they raviſh, torture, and ſlave them; they make of them Beaſts and Monſters, and then lock them 'tween four Walls, without hopes of ever ſeeing the Sun, unleſs they reſign up their Bibles and Conſciences together, and then worſhip the Beaſt and the Whore of <hi>Babylon.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Brave rogues! indeed, moſt cruel to the weaker Sek! Is't true that they are ſuch Zealots as to carry on the War with Fire and Faggot yonder in <hi>Germany?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Moſt certainly; and that Fire is ſeven times fiercer than I can deſcribe it; inſomuch that the poor Wretches whom they fry and roaſt, without pity of Age or Sex, think Hell's broke looſe, or that the laſt Conflagration is at hand; and yet all the <hi>Monſieurs</hi> do, they ſay, is for the good of their
+<pb n="2" facs="tcp:40411:2"/>
+                  <hi>Religion;</hi> for this they burn and plunder Towns' and Coun<g ref="char:EOLhyphen"/>tries, turn Cities into Charnel-Houſes, and Churches into Bonfires, dig and plough up Church-yards, rip up the big<g ref="char:EOLhyphen"/>belly'd, and drag the Dead about the Streets.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>So that the Womb and the Crave, the Quick and the Dead, taſte alike of thei<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inhumanity; and all this in Popiſh Countries too?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Yes, and much more; they raviſh the Mother, ſtrip the Father, and then kill both for company; the Prieſt de<g ref="char:EOLhyphen"/>bauches the Daughter, and then locks her up for his own uſe in a Cloiſter, and makes her next Relations maintain her: And for all theſe Cruelties which they practiſe where<g ref="char:EOLhyphen"/>ever they come, all the World hath now a Crow to pull with the <hi>Monſieur,</hi> and are reſolved to pound him up, to recover ſome ſatisfaction for all theſe Pranks.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>
+                  <hi>LEWIS the GREAT,</hi> quoth'a; this is the Devil and all his Works. The reaſon then that Papiſts forbid the Bible is, for that their practice is quite againſt it: What, would they have theſe good qualities to recommend them to us here? 'Tis much that people ſo well known, and ſo much hated, ſhould ſtill have the Weathergage, and good ſucceſs always for them: What, do they burn Popiſh Churches too? Since there are no Bibles there to kindle their fury, or to feed their flame? Prithee how comes the Prieſts to ſuffer it? and what becomes o' th' Bells?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Why, 'tis no new thing for <hi>Turks</hi> and <hi>Tartars,</hi> and every Tool to fire a Town; but Churches ſtill eſcaped, till this <hi>French</hi> way of warring was found out: beſides, their Friend the <hi>Great Turk</hi> would not believe them to be in good ear<g ref="char:EOLhyphen"/>neſt, if they did not do ſomething more than ordinary. As for the <hi>Prieſts,</hi> they go ſhares, and have the Bells for their pains, which they ſell to the Gun-Founders, who melt them into Canonical Guns and Mortar-pieces; and the Owls are made believe, that being Conſecrated, they'll do better execution againſt Hereticks.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>The <hi>French</hi> indeed have ſeem'd to uſe ſome Spell or Black Art in the caſe, or how a vengeance could they have gull'd their Neighbours of all thoſe ſtrong places that open'd to them ſo eaſily at their firſt appearance?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Ah, <hi>Tom,</hi> there are more ways to ſink a Ship than one: the <hi>French</hi> often kill with white Powder, that gives no report; their Artillery of late years have been gilt, and inſtead of the Battering Ram, they have uſed the Golden Fleece; their Silver Trumpers were turn'd into Silver Keys that had Wards to open all the Locks in <hi>Germany;</hi> Braſs, and Bell-mettle is not the ſureſt for execution; this <hi>Mon<g ref="char:EOLhyphen"/>ſieur</hi> finds his Piſtols of more force than his Culverins; and that few Men of War, of what Rate ſoever, are proof againſt them: But if this Charm fails, he works under ground, and employs Rogues and Thieves to ſteal and betray Towns, or elſe to fire them; and then he has his Spies of all ſizes and Sexes with his Penſions and Preſents; and over and a<g ref="char:EOLhyphen"/>bove all, he has a little gaudy Fly (call'd a <hi>French Miſs</hi>) to bait his Hooks and Traps withal: And theſe are but ſome of thoſe many Links whereof the <hi>French</hi> Chain of Slavery is compos'd.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>But prithee, <hi>Dick,</hi> what Friends or Seconds has the <hi>Monſieur</hi> in all this puther he makes in the World?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>By me troth not many; ſome may fear, but none can love him, unleſs for his Money; for like our Town-Bullies, he thruſts himſelf into all Quarrels; cuffs the one, malls the other; and tho' none gets but Blows and bloody Noſes, yet he is ſtill a winner; ſo that all know him too well to truſt him, excepting his ſingular good and only Friend the <hi>Great Turk,</hi> who is made believe the Half Moon is made of <hi>French</hi> Cheeſe.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Bleſs us all! not truſt the greateſt King in the world, as I heard a <hi>French</hi> Lackquey call him t' other day. With all this huffing and hectoring he muſt have ſome publick Faith and common Honeſty.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>I'm afraid not any to ſpare; enough for his own turn; and when that's ſerv'd, he cares no further; whoever ſtruts upon the Stilts of Tyranny and Oppreſſion, is no Slave to his Word; his Heart is Flint, his Forehead Braſs, and has no Bowels, nor ſenſe of right or wrong; and thus the <hi>Monſieur</hi> breaks Treaties to preſerve the publick quiet; ſteals Towns in time of Peace, to prevent War; makes truce on<g ref="char:EOLhyphen"/>ly to diſarm his Neighbour; and thus all is Fiſh that ſutes with his <hi>Conveniency</hi> and Advantage.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>I'm ſure this would be to play the <hi>Canary,</hi> if we did ſo at Sea: One that bubbles the Fatherleſs and Widow (as I heard he did the Intant King of <hi>Spain</hi> and his Mother) I've done with him; it's well we have a Ditch between us and his <hi>Monſieurſhip;</hi> but prithee what's their opinion of us in <hi>England?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>I'le promiſe thee, very mean; one of them tells the World in Print, we are a ſort of Animals <hi>that have no Faith, Religion, Honeſty,</hi> or <hi>Juſtice amongſt us;</hi> that we are <hi>Cruel, Fooliſh, Gluttonous,</hi> and <hi>Proud</hi> to the <hi>higheſt deg<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> that we are <hi>great Braggers, little Doers, ſit for no war<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> Action,</hi> but for a <hi>rubber at Cuffs, and the Bear-Garden,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>He could not well ſay worſe in ſo few words; t<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> have forgot (it ſeems) we were once fit for ſometh<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> when one or two of our Kings were Crown'd at <hi>Par<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Well, there's no love loſt; I'm ſure the <hi>Moors</hi> and all <hi>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>bary</hi> have the ſame opinion of the <hi>French</hi> that we and <hi>Europe</hi> have; That the are <hi>Baſe and Perfidious in their <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ture, falſe to their Word, Peace-breakers, Luſtful, and Rev<gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ful beyond any Creatures, treacherous in their friendſhip, B<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> and <g ref="char:V">Ʋ</g>nmerciful when they are uppermoſt, cringing and faw<gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> when they are down;</hi> in fine, a <hi>Generation of Fidlers and <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>r<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kemakers,</hi> and <hi>wandering remnants of the Itch and <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Baba Hamed,</hi> my Patroon, uſed to ſay, <hi>the</hi> French <hi>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> were an Army of Painted Flies, of much noiſe, and little ſtren<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> that inſenſibly ſpread their Maggots where ever they came,</hi> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that <hi>he hoped e're long to ſee the Vermin confin'd to their <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Country.</hi> And I hope that thoſe who have almoſt ſunk <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Great <hi>Turk</hi> himſelf, may yet bring his Friend by the But to return to our point, what's thy opinion of this <hi>F<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </hi> Have they good Gunners?</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Let me ſee, how ſtands the wind? it veres Eaſtern where it ſtood ſo long before and after the late Engage<g ref="char:EOLhyphen"/>ment, that ſcarce a <hi>French</hi> man but had bewray'd him <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> (what with their new Wines, and more for fear) leſt <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Engliſh</hi> and <hi>Dutch</hi> ſhould have born upon them; for let <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> tell thee, <hi>Tom,</hi> they came not to fight, if they could h<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> done their job by any other ſlight of <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and; they are ready at <hi>Pimper le Pimp</hi> as at Fire and Gun-powder. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for the <hi>Men,</hi> they are poor, three-penny fac'd Fellows, go Leg'd, ſhrivel'd ſhoulders, feeble Knee'd, and look m<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> like Taylors and Garden-weeders than Se<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>men; and ca<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> we but once to grapple, thee and I could clear a wh<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Deck of them; they look very ſqueamiſh, as if they <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>liſhed not Salt-water, but would rather be any where th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> at home, to pay <hi>two thirds</hi> of their daily labour to the gre<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Leviathan. As for their <hi>Gunners,</hi> they are Men trained <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in the wild-fire Schools at <hi>Thoulon</hi> and <hi>Breſt,</hi> which fu<g ref="char:EOLhyphen"/>niſh'd thoſe Maſters of the Art of Burning to <hi>Genoua, Algie<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> and <hi>Germany,</hi> and ſent us that famous <hi>Guy Fauz</hi> Gunner <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the late Powder plot; and they were all Diſciples of that <hi>Ign<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tius</hi> Chief of the <hi>Jeſuits,</hi> who (his Name tells thee) w<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> himſelf a Fire-maſter.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>What, came they not to fight, ſay'ſt thou? Or wou<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> they have blinded our eyes with <hi>Gold-duſt,</hi> and wheedle the Mayors in the <hi>Weſt</hi> (as they did the Mayor of <hi>Meſſing</hi> with a doſe of <hi>Loüis d'Ors</hi> to deliver up their Towns? Bu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> theſe <hi>Monſieurs,</hi> like <hi>Old Nick,</hi> draw Men in, and the leave them in the lurch; and no Creature ſo deſpicable <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he that betrays his Country <hi>à la mode de France:</hi> And remember in my laſt <hi>Straits</hi>-Voyage, how ſcornfully ever Cur up'd with his Leg and piſs'd upon thoſe turn-coat <hi>Sicilian<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> who ſwallow'd the <hi>Yellow Bait,</hi> and ſuffer'd the <hi>Monſieur</hi> to cach their whole Kingdom in his Net. God ſave old <hi>Eng<g ref="char:EOLhyphen"/>land!</hi> I hope yet to ſee them taught an <hi>Engliſh</hi> Jigg, and cut many a croſs Caper 'tween this and the Lands End <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ha, up-Boys! all hands abaft! we muſt whip the <hi>Monſieur</hi> out of our Seas, and make him, like a Crab, crawl back<g ref="char:EOLhyphen"/>wards to his own Creeks.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>God ſave our King and Queen! our wooden Walls, our true Sons of <hi>Neptune,</hi> and our honeſt Tar-Boys; I hope to ſee the day yet <hi>Monſieur</hi> muſt ſhrug and cringe (as for<g ref="char:EOLhyphen"/>merly) for <hi>leave to fiſh for a few Soals in our Seas.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Well fare Queen <hi>Beſs,</hi> that kept his Noſe to the Grind<g ref="char:EOLhyphen"/>ſtone, that he durſt not lay the Carcaſs of a Ship upon the Stocks without her permiſſion; and well fare that day that Forty <hi>Engliſh</hi> Ships fought Eighty <hi>French,</hi> and hamſtrung them ſo, that none eſcap'd to carry the news of their defeat.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>Chear up, Lad; we'll pay them now I hope for their good ſervice in 1672, in ſtanding by, and looking on <hi>with<g ref="char:EOLhyphen"/>out firing a Gun.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>Ay, and for that caſt of their Office, in <hi>firing Ships, Guns, and all</hi> at <hi>Chatham</hi> in 1666; to ſay nothing of that <hi>Firing</hi> between the <hi>Monument</hi> and <hi>Temple-Bar,</hi> which (if all be true) proceeded from the warm Zeal and Affection that theſe <hi>French Fire-maſters</hi> bore to our City; which may per<g ref="char:EOLhyphen"/>haps yet find a time to return them their Complement. But hold! here comes our Noble Captain, aboard whom we are to ſerve.</p>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <p>I'le ſwear he promiſes well; he treads firm, and has the plain, bold look of an <hi>Engliſh</hi> Seaman.</p>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <p>And I'le ſwear he's no Up-ſtart Sea-weed; he's no ſucking Tar; none of thoſe Meal-pated, Whifling Damnee's, but is as well a ſeaſon'd Lad as any in the Fleet. And ſo let's clap more Sails to our heels, elſe he'll be aboard be<g ref="char:EOLhyphen"/>fore us.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Randal Taylor</hi> near <hi>Stationers-Hall.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
